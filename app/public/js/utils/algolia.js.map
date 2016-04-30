@@ -1,0 +1,1 @@
+{"version":3,"file":"algolia.js","sources":["../src/public/js/utils/algolia.js"],"sourcesContent":["export default algoliasearch('0UIFPQ3RGG', 'fd0fa679c0defa9861821fc129385ab5', { protocol: 'https:' });\n"],"names":[],"mappings":";;;;;qBAAe,aAAa,CAAC,YAAY,EAAE,kCAAkC,EAAE,EAAE,QAAQ,EAAE,QAAQ,EAAE,CAAC"}
